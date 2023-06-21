@@ -1,0 +1,21 @@
+#class{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+#yellow{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+#green{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(47, 224, 255);
+}
